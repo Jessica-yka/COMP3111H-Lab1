@@ -1,10 +1,4 @@
 Jessica
 12345678
 
-// method 1
-<img
-src=“delete_test.png”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+![alt text](https://github.com/Jessica_yka/COMP3111H-Lab1/delete_test.png?raw=true)
